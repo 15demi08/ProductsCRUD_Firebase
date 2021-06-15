@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Firebase_Products</string>
+    <string name="prodList_title">Products</string>
+    <string name="prodForm_code">Id</string>
+    <string name="prodForm_name">Name</string>
+    <string name="prodForm_price">Price</string>
+    <string name="prodForm_save">Save</string>
+    <string name="prodForm_cancel">Cancel</string>
+    <string name="prodList_new">New Product</string>
+    <string name="prodForm_delete">Delete</string>
+    <string name="prodList_msg_saved">Product was saved successfully.</string>
+    <string name="prodList_msg_modified">Product was modified successfully.</string>
+    <string name="prodList_msg_deleted">Product was deleted successfully.</string>
+    <string name="prodList_msg_canceled">Operation was canceled.</string>
+    <string name="prodList_msg_unknownError">An unknown error occured.</string>
+    <string name="prodForm_title">%1$s %2$s</string>
+    <string name="prodForm_titlePiece_new">New</string>
+    <string name="prodForm_titlePiece_edit">Edit</string>
+    <string name="prodForm_titlePiece_product">Product</string>
+</resources>
